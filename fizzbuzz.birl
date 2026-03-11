@@ -1,0 +1,21 @@
+HORA DO SHOW
+
+// FizzBuzz em BIRL - Só para monstros que constroem fibra!
+// 3: Fizz -> FRANGO!
+// 5: Buzz -> MONSTRO!
+// 15: FizzBuzz -> BAMBAM!
+
+MONSTRO I;
+MAIS QUERO MAIS (I = 1; I <= 100; I++)
+    ELE QUE A GENTE QUER? (I % 15 == 0)
+        CE QUER VER ESSA PORRA? ("BAMBAM!\n");
+    QUE NAO VAI DAR O QUE? (I % 3 == 0)
+        CE QUER VER ESSA PORRA? ("FRANGO!\n");
+    QUE NAO VAI DAR O QUE? (I % 5 == 0)
+        CE QUER VER ESSA PORRA? ("MONSTRO!\n");
+    NAO VAI DAR NAO
+        CE QUER VER ESSA PORRA? ("%d\n", I);
+    BIRL
+BIRL
+
+BIRL

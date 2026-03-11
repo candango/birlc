@@ -1,0 +1,7 @@
+# Zig
+.zig-cache/
+zig-cache/
+zig-out/
+
+# Tasks and session files
+tasks.json
